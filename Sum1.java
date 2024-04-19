@@ -4,15 +4,15 @@ class Sum {
 //         return 0;
 // return (n%10)+ sum(n/10);
 //     }
-//     public static void main(String[] args) {
+    public static void main(String[] args) {
 //         int num=123456;
 //         System.out.println(sum(num));
         
         
         
         
-        /*int sum=0;
-        int num=123456;
+        int sum=0;
+        int num=123;
         for(int i=0; i<=10; i++){
             sum+=i;
         }
@@ -22,7 +22,7 @@ class Sum {
             num=num/10;
         }
         System.out.println(sum);
-    }*/
+    }
     
-}
+
 }
