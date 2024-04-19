@@ -1,4 +1,4 @@
-class Sum {//sum
+class Sum {
     static int sum(int n){
         if(n==0)
         return 0;
